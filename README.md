@@ -1,24 +1,52 @@
-# Power BI Dashboard and EDA - Online Retail Sales Dataset
+# Power BI Online Retail Sales Dashboard
+
+## Dataset
+
+Online Retail Sales dataset containing transaction-level retail data such as invoice number, product description, quantity, invoice date, price, customer ID and country.
 
 ## Project Overview
 
-From Data to Dashboard - This project covers it all!
-Data cleaning and EDA performed in Python (Pandas, Matplotlib, Seaborn) followed by an interactive Power BI dashboard that visualizes key insights into online retail sales and overall business performance.
+This project combines Python-based exploratory data analysis with a Power BI dashboard to analyze online retail sales performance. The analysis focuses on sales trends, product performance, customer behavior, country-wise revenue and seasonal sales patterns.
 
-## Tools
+The goal of this project is to practice data cleaning, exploratory data analysis, dashboard preparation, business intelligence reporting and insight generation using Python and Power BI.
 
-- Power BI
-- Python
-- Pandas – data cleaning & manipulation
-- Matplotlib & Seaborn – data visualization
-- Jupyter Notebook – analysis & presentation
+## Dashboard Features
 
-## Key Outcomes
+* Online retail sales performance overview
+* Monthly sales trend analysis
+* Top products by quantity
+* Top products by revenue
+* Loyal customer analysis
+* Country-wise revenue comparison
+* Power BI dashboard visuals
+* Dashboard screenshots included
+* Cleaned dataset prepared for dashboard use
 
-- Cleaned and prepared the dataset by removing duplicates, handling missing values and treating outliers.
-- Conducted EDA in Python to uncover sales trends, customer behavior and top-performing products.
-- Identified seasonal patterns, with November-2011 showing the highest sales activity.
-- Highlighted top revenue-generating products and loyal customers to support retention strategies.
-- Compared revenue and order volume across countries to assess global performance.
-- Built an interactive and insight-driven Power BI dashboard.
-- Transformed raw data into actionable insights for better business decision-making.
+## Tech Stack
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* Power BI
+* CSV
+
+## Summary of Insights
+
+* Monthly sales showed clear variation, with stronger sales activity during peak months.
+
+* A few products contributed significantly to total quantity sold and revenue.
+
+* Some customers made repeated purchases, showing loyal customer behavior.
+
+* The United Kingdom contributed the highest revenue and order volume.
+
+* Country-wise revenue comparison helped identify key markets.
+
+* Power BI dashboard helped present sales, product, customer and country-level insights visually.
+
+## License
+
+This project is licensed under the MIT License.
